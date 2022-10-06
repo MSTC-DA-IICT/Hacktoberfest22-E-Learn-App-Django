@@ -25,7 +25,7 @@ It’s a good practice to develop a project in a venv because it enables you to 
 Use the command deactivate to deactivate the virtual environment.
 
 #### Install Django on your machine using the command -
-```pip install django```
+```pip install django==4.0.4```
 
 #### Run the following command in terminal to clone the Repository in your local machine  
 `git clone https://github.com/MSTC-DA-IICT/Hacktoberfest22-E-Learn-App-Django.git`  
