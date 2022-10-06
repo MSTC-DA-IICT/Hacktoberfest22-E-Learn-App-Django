@@ -1,8 +1,40 @@
-# Hacktoberfest22-E-Learn-App-Django
-E-learning application in Django.  
-This application aims to develop a platform wherein teacher can put up interactive quizes and polls for their students.   
+ # E-Learn-App-Django : Quiz and Polls App
 
-## Installation and Getting Started:
+This project is a sincere attempt by MSTC, DA-IICT to encourage Open Source contribution. Make the best out of the ongoing Hacktoberfest 2022 by contributing to for-the-community projects. This project participates in Hacktoberest 2022 and all successful PRs made here will be counted among the at least 4 successful pull requests that you'd need to make in order to be eligible for the Hacktoberfest appreciation (plant a tree / get a tee).
+
+
+<img src="https://res.cloudinary.com/dbvyvfe61/image/upload/v1619799241/Cicada%203301:%20Reinvented/MSTC_ffmo9v.png" width="10%">
+
+---
+
+>This is a Django development project for Hactoberfest 2022, maintained by MSTC DA-IICT.  
+>
+>We are trying to build a Quiz and Polls App where teacher can put up interactive quizes and polls for their students.
+>
+>We need a Django Developer :technologist: to help us solving these issues.
+<br><br>
+### :hammer_and_wrench: Skills
+* Python 
+* HTML/CSS/JavaScript (Basic-Intermediate)
+
+
+### :dart: What you have to do
+* First check `contributing.md` for details on how to work with github.
+* Go to the "`Issues`" and pick the issue best suitable for you. 
+* Read the issue - Understand it well - Leave a comment - start working on the issue
+* New and creative approches are appreciable.
+* Intiate a `PR`.
+
+
+### :desktop_computer: Some resources you can learn from
+  * [Python](https://docs.python.org/)
+  * [Django](https://docs.djangoproject.com/en/4.1/)
+  * [HTML](https://www.w3schools.com/html/default.asp)
+  * [CSS](https://www.w3schools.com/css/default.asp)
+  * [JS](https://www.w3schools.com/js/)
+
+
+## Installation and setting up Django:
 
 #### Download the setup file of an IDE of your choice and install it on your machine. Recommended:  
 Visual Studio Code (by Microsoft) - [LINK](https://code.visualstudio.com/download)  
@@ -25,7 +57,7 @@ It’s a good practice to develop a project in a venv because it enables you to 
 Use the command deactivate to deactivate the virtual environment.
 
 #### Install Django on your machine using the command -
-```pip install django==4.0.4```
+```pip install django```
 
 #### Run the following command in terminal to clone the Repository in your local machine  
 `git clone https://github.com/MSTC-DA-IICT/Hacktoberfest22-E-Learn-App-Django.git`  
@@ -48,3 +80,13 @@ ELearnApp, Teacher and Student are three different apps created to fulfill the f
 ELearn is the main app which contains settings.py and urls.py for the project.  
 
 
+Happy Developing! :innocent:
+
+<br><br>
+
+---
+  
+### 🔗 Connect with us
+Get in touch with us on [LinkedIn](https://www.linkedin.com/in/microsoft-student-technical-club-daiict/) / [Instagram](https://www.instagram.com/mstc.daiict/)
+
+Write to us at microsoftclub@daiict.ac.in
