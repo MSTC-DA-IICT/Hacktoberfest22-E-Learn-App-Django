@@ -8,6 +8,3 @@ class StudentModel(models.Model):
     student = models.ForeignKey(User, on_delete=models.CASCADE)
     joining_date = models.DateField(default=date.today)
     student_idnum = models.IntegerField()
-    
-    def __str__(self):
-        return self.student.first_name + ' ' + self.student.last_name
